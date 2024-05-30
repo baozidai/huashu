@@ -1,0 +1,3 @@
+This is the code I wrote when I was sent to Chongqing Intelligent Robotics Research Institute (Huazhou Robotics) as a labourer during my graduate studies and faced with strange and scribbled requirements. It mainly interacts with MSO8000 series oscilloscopes and Modbus server, and is used in some kind of black light factory that is best not mentioned here.
+
+Since there is no signed agreement with the other party, I am posting this code here. Perhaps it will add to your knowledge of this company.
